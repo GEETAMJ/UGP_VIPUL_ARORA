@@ -1,0 +1,59 @@
+11	In a village next to a forest there lived two woodcutters	0.9
+11	They were neighbors staying next to each other	0.9
+11	Deena, the first woodcutter was a very energetic and honest one	0.9
+11	Soma, the other woodcutter was a lazy and mean person	0.9
+11	Both earned their living by cutting wood in the nearby forests	0.9
+11	One day as usual in the morning, Deena started his work	0.9
+11	Soma always used to delay his work	0.9
+11	Soma led a miserable life as he was not ready to work hard	0.9
+11	Deena went to the forest and looked out for woods	0.9
+11	He searched for wood for long but he did not find any wood so he decided to go to the riverside where he would get wood	0.9
+11	So Deena walked towards the river	0.9
+11	There, he found a big tree	0.9
+11	Deena climbed up the tree and started to chop the wood	0.9
+11	As he was chopping, the axe slipped from his hand and fell into the river	0.9
+11	He started crying and prayed to God as it was his only property which earned money	0.9
+11	Soon God answered his prayer	0.9
+11	God appeared and asked him, why he was crying	0.9
+11	He told about the incident	0.9
+11	In a little while, God took an axe from the river	0.9
+11	It glittered as it was made of gold	0.9
+11	Deena was stunned to see such a shining beautiful axe	0.9
+11	But Deena said no without any hesitation	0.9
+11	Here are more short stories with moral you might like	0.9
+11	The God again took another axe from the river	0.9
+11	It was made of silver	0.9
+11	The God again asked, “Is it your axe?” He said, “No, it is not mine	0.9
+11	” God now pulled an axe made of iron	0.9
+11	“Is it yours”, God asked	0.9
+11	Deena’s face showed the sign of joy	0.9
+11	He said yes and was overjoyed	0.9
+11	The God was very much pleased with his honesty and gave all the three axes as a reward for his honesty	0.9
+11	Deena happily went to his home with the three axes	0.9
+11	When he crossed Soma’s house, Soma saw the axes and was stunned	0.9
+11	Soma was curious to know what has happened	0.9
+11	So, without the knowledge of Deena, Soma followed him	0.9
+11	Deena reached the house and called his wife	0.9
+11	She came there and saw the axes	0.9
+11	She was surprised	0.9
+11	Deena explained how the god appeared and had given him the axes	0.9
+11	Soma who was hearing all this from outside decided to follow Deena the next day	0.9
+11	The next day, Deena sold the golden axe and started a new happy life	0.9
+11	Even though he has become rich, Deena went to work as usual	0.9
+11	Soma followed Deena to the forest	0.9
+11	Deena went near the river and started his work	0.9
+11	Soma got to know about the place where his axe got slipped	0.9
+11	He waited till Deena left	0.9
+11	Soma immediately went to the river and deliberately dropped his axe into the river	0.9
+11	He pretended to cry and prayed the god to help him	0.9
+11	The god appeared and came to know that Soma was playing with him, So, the God decided to teach him a lesson	0.9
+11	God took out his iron axe first	0.9
+11	He said no intentionally	0.9
+11	Then the God took the silver axe and showed it to him	0.9
+11	He again denied	0.9
+11	God took out the golden axe	0.9
+11	He quickly said yes	0.9
+11	God was furious and took all the axes with him and disappeared	0.9
+11	All his shouting went useless	0.9
+11	Soma returned home without the axe which was his only property, but he had learned his lesson	0.9
+11		0.9
